@@ -44,4 +44,4 @@ It should adhere to following conditions:
 
 The final output should look like this
 
-![Superwar](doc/superwar-css.png)
+![Superwar](doc/superwars-css.png)
